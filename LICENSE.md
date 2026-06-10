@@ -1,4 +1,4 @@
-# 
+# Officiel A web AI object detection thèmes. Avec IA explicable et optimisation de modèles — optimisé pour des performances maximales.
 
 
 
